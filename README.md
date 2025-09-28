@@ -1,3 +1,7 @@
+<h1>Create Key</h1>
+
+python generate_keys.py
+
 <h1>For app run</h1>
 
 python app.py
