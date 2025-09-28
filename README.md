@@ -3,7 +3,7 @@
 python app.py
 
 
-/=********************=\
+
 <h1>For terminal run</h1>
 
 python upload.py
@@ -18,7 +18,7 @@ Enter the file name you want
 
 Now you can see the reconstructed file
 
-/********************/
+
 <h2>**Note**</h2>
 If u get any error from the Dropbox token side, go to https://www.dropbox.com/developers/apps/ 
 and go to the app and click the generate token and copy it and paste it in config.py, 
